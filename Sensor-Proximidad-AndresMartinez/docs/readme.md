@@ -56,6 +56,10 @@ Este proyecto consiste en un sistema de medición de distancia utilizando un sen
 
 ---
 
+<img width="778" height="669" alt="Image" src="https://github.com/user-attachments/assets/d30a213d-8e60-4b21-81d4-53d234aeb691" />
+<img width="869" height="694" alt="Image" src="https://github.com/user-attachments/assets/ad36b531-24cc-467a-b752-4da1a40e63b8" />
+
+
 ## 🧠 Lógica del programa
 
 ```python
@@ -68,9 +72,6 @@ elif distancia < DISTANCIA_MAX:
 else:
     # Todo normal
 
-
-<img width="778" height="669" alt="Image" src="https://github.com/user-attachments/assets/d30a213d-8e60-4b21-81d4-53d234aeb691" />
-<img width="869" height="694" alt="Image" src="https://github.com/user-attachments/assets/ad36b531-24cc-467a-b752-4da1a40e63b8" />
 
 
 
